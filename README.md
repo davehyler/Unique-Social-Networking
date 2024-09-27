@@ -1,5 +1,5 @@
 # Unique-Social-Networking
-A Zork Style Social Media Site.
+A Zork Style Social Media Site. The last submission contained a video link right here on this line and yet somehow still managed to take off almost 30% of the grade due to not having a "video file in readme". So I will save myself the effort this time if we are not going to receive credit for our work.
 <h1 id="title">ReadMe file for "A Unique Social Network"</h1><img src = "https://badgen.net/badge/license/MIT">
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
